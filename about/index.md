@@ -6,32 +6,20 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://taylantatli.github.io/Moon">해당 블로거는 jekyll의 <b>Moon</b></a>테마를 사용하고 있다.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## 블로거의 설명
+### 해당 블로거는 언제나 귀찮습니다.
+* 항상 피로를 지니고 있습니다.
+* 블랙 커피를 좋아합니다.
+* 메이플에서 메세를 합니다.
+* 메.르.조.아.
+* 안드로이드, 코틀린을 주로 다룬다.
+* 가끔 웹도 한다.
+* 최근 github도 공부하고 있다.(아...어렵)
 
 ## Getting Started
-
+만약 이 블로그의 디자인이 마음에 들면 jekyll에서 moon을 찾거나 하이퍼링크를 클릭해서 다운해주세요.
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
